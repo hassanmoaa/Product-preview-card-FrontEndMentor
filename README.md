@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/hassanmoaa/Product-preview-card-FrontEndMentor.git)
+- Live Site URL: (https://enchanting-lollipop-950b28.netlify.app/)
 
 ### Built with
 
